@@ -1,3 +1,4 @@
+/* opencubman_typdef.h */
 /* Header file for OpenCubMan type definitions */
 
 #ifndef OPENCUBMAN_TYPEDEF_H
@@ -8,6 +9,8 @@
 #include <stdlib.h>
 #include <iostream>
 #include <fstream>
+#include <string>
+#include <sstream>
 
 // Using the standard namespace
 using namespace std;

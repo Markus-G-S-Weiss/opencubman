@@ -1,3 +1,4 @@
+/* opencubman.h */
 /* Header file for the Cube class */
 
 #ifndef OPENCUBMAN_H
@@ -35,7 +36,7 @@ public:
     void deinit();
 
     // Cube file reading and writing
-    void read_cube(const char* filename, int orbn);
+    void read_cube(const char* filename);
     void write_cube(const char* filename);
     void write_cube_density(const char* filename);
 
@@ -61,7 +62,6 @@ public:
     int n_forxelectron(double x);
     int n_forw(double w);
     double w_forxelectron(double x);
-    double d_forxelectron(double x);
     double x_forw(double w);
 
     // Accessor functions
