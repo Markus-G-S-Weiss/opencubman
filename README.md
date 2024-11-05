@@ -1,5 +1,16 @@
 # OpenCubMan Package
 
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](LICENSE)
+<!--
+[![Build Status](https://github.com/Markus-G-S-Weiss/OpenCubMan/actions/workflows/build.yml/badge.svg)](https://github.com/Markus-G-S-Weiss/OpenCubMan/actions)
+[![GitHub issues](https://img.shields.io/github/issues/Markus-G-S-Weiss/OpenCubMan.svg)](https://github.com/Markus-G-S-Weiss/OpenCubMan/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Markus-G-S-Weiss/OpenCubMan.svg)](https://github.com/Markus-G-S-Weiss/OpenCubMan/pulls)
+[![GitHub contributors](https://img.shields.io/github/contributors/Markus-G-S-Weiss/OpenCubMan.svg)](https://github.com/Markus-G-S-Weiss/OpenCubMan/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Markus-G-S-Weiss/OpenCubMan.svg)](https://github.com/Markus-G-S-Weiss/OpenCubMan/commits/main)
+[![GitHub top language](https://img.shields.io/github/languages/top/Markus-G-S-Weiss/OpenCubMan.svg)]()
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-blue.svg)
+-->
+
 *Modified by Markus G. S. Weiss on 2024-11-04.*
 
 *This project is licensed under the GNU General Public License v2.0. See the [LICENSE](LICENSE) file for details.*
