@@ -1,11 +1,13 @@
---------FILE: AUTHORS--------
 # Authors
 
 - **Markus G. S. Weiss**
-  
+
   Modifications and enhancements to the OpenCubMan package.
 
 - **Maciej Haranczyk under supervision of Prof. Maciej Gutowski**
-  
+
   Original authors of the code on which this package is based.
 
+  **Reference**:
+
+  Haranczyk, M., & Gutowski, M. (2008). *Visualization of molecular orbitals and the related electron densities*. **Journal of Chemical Theory and Computation**, 4(5), 689-693. [https://doi.org/10.1021/ct800043a](https://doi.org/10.1021/ct800043a)
