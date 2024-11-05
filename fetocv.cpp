@@ -1,5 +1,8 @@
 /* fetocv.cpp */
 /* Fraction of Electrons (FE) to Contour Value (CV) Program */
+/* Modified by Markus G. S. Weiss on 2024-11-04 */
+/* This file is part of OpenCubMan and is licensed under the GNU General Public License v2.0. */
+/* See the LICENSE and AUTHORS files for details. */
 
 #include "opencubman.h"
 
