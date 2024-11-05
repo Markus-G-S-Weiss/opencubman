@@ -1,4 +1,15 @@
+/* opencubman_typdef.h */
 /* Header file for OpenCubMan type definitions */
+/* Modified by Markus G. S. Weiss on 2024-11-04 */
+/* This program is distributed "as is" WITHOUT ANY WARRANTY; see the LICENSE file for more details. */
+/* This file is part of OpenCubMan and is licensed under the GNU General Public License v2.0. */
+/* Based on the original work by Maciej Haranczyk and Prof. Maciej Gutowski. */
+/* See the LICENSE and AUTHORS files for details. */
+/*
+ * Reference:
+ * Haranczyk, M., & Gutowski, M. (2008). Visualization of molecular orbitals and the related electron densities.
+ * Journal of Chemical Theory and Computation, 4(5), 689-693. https://doi.org/10.1021/ct800043a
+ */
 
 #ifndef OPENCUBMAN_TYPEDEF_H
 #define OPENCUBMAN_TYPEDEF_H
@@ -8,6 +19,8 @@
 #include <stdlib.h>
 #include <iostream>
 #include <fstream>
+#include <string>
+#include <sstream>
 
 // Using the standard namespace
 using namespace std;

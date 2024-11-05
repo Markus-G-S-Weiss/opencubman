@@ -1,4 +1,9 @@
 # Makefile for OpenCubMan
+# Modified by Markus G. S. Weiss on 2024-11-04
+# This file is part of OpenCubMan and is licensed under the GNU General Public License v2.0.
+# This program is distributed "as is" WITHOUT ANY WARRANTY; see the LICENSE file for more details.
+# Based on the original work by Maciej Haranczyk and Prof. Maciej Gutowski.
+# See the LICENSE and AUTHORS files for details.
 
 # Compiler
 CC = g++
@@ -43,4 +48,3 @@ clean:
 
 # Phony targets
 .PHONY: all clean
-

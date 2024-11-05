@@ -1,4 +1,15 @@
+/* opencubman.h */
 /* Header file for the Cube class */
+/* Modified by Markus G. S. Weiss on 2024-11-04 */
+/* This program is distributed "as is" WITHOUT ANY WARRANTY; see the LICENSE file for more details. */
+/* This file is part of OpenCubMan and is licensed under the GNU General Public License v2.0. */
+/* Based on the original work by Maciej Haranczyk and Prof. Maciej Gutowski. */
+/* See the LICENSE and AUTHORS files for details. */
+/*
+ * Reference:
+ * Haranczyk, M., & Gutowski, M. (2008). Visualization of molecular orbitals and the related electron densities.
+ * Journal of Chemical Theory and Computation, 4(5), 689-693. https://doi.org/10.1021/ct800043a
+ */
 
 #ifndef OPENCUBMAN_H
 #define OPENCUBMAN_H
@@ -35,7 +46,7 @@ public:
     void deinit();
 
     // Cube file reading and writing
-    void read_cube(const char* filename, int orbn);
+    void read_cube(const char* filename);
     void write_cube(const char* filename);
     void write_cube_density(const char* filename);
 
@@ -61,7 +72,6 @@ public:
     int n_forxelectron(double x);
     int n_forw(double w);
     double w_forxelectron(double x);
-    double d_forxelectron(double x);
     double x_forw(double w);
 
     // Accessor functions
