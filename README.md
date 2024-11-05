@@ -105,7 +105,7 @@ This project is licensed under the GNU General Public License v2.0. See the [LIC
 
   Modifications and enhancements to the OpenCubMan package.
 
-The code is based on the original work by Maciej Haranczyk under the supervision of Prof. Maciej Gutowski, with modifications and enhancements by Markus G. S. Weiss.
+The code is based on the original work by Maciej Haranczyk under the supervision of Prof. Maciej Gutowski.
 
 ## Acknowledgments
 
