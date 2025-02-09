@@ -219,7 +219,7 @@ void Cube::read_cube(const char* filename)
                         negative_density_count++;
                     }
                     c[count].d = value;                  // Keep the density value as is (negative or positive)
-                    c[count].w = sqrt(fabs(value));      // Use absolute value for wavefunction magnitude
+                    c[count].w = value;
                 }
                 else if (data_type == "orbital")
                 {
